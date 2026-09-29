@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "FastAPI SQLite Persistence",
+      "description": "Replace in-memory task storage with SQLite and SQLModel while preserving REST API behavior.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
